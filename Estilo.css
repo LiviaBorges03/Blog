@@ -1,0 +1,24 @@
+body{
+    background-image: url('livia.jpg');
+ /* Abrir imagem  de fundo */
+    background-position: center;
+    background-size: cover;
+}
+.container{
+   text-align:center;
+   color:white;
+   padding: 3cm;
+   background: rgba( 0, 0, 0, 0.6);
+   max-width: calc(60% - 6cm);
+   margin: auto;
+}
+
+h1{
+    front-size: 2.5em;
+    front-weight: bold;
+}
+p{
+    front-size: 1.2em;
+    text-aling: justify;
+    line-height: 1.5;
+}
